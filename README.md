@@ -38,7 +38,7 @@ This simplified V2.0 design retains the high theoretical yield while drastically
 | :--- | :--- | :--- |
 | **Installation Cost** | High (Requires deep excavation) | **Very Low (Surface installation)** |
 | **Condensation Rate** (Theoretical) | $\approx 0.18 \text{ L/m}^2/\text{hr}$ | **$\approx 0.43 \text{ L/m}^2/\text{hr}$** |
-| **Power for Rotation** | Very High (Rotating entire mass) | **Very Low (Rotating only lightweight shell)** |
+| **Power for Rotation** | Near zero (low powered fan for air intake) | **Very Low (Rotating only lightweight shell)** |
 | **Complexity** | High (Sealing underground) | Low (Easily serviceable surface mount) |
 
 ---
